@@ -1,7 +1,3 @@
-'use client'
-
-import { useState } from 'react'
-
 export default function HowItWorks() {
   const [activeStage, setActiveStage] = useState(0)
 
